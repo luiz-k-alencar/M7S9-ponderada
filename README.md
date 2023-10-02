@@ -1,4 +1,3 @@
-# M7S9-ponderada
 # Fomentando o Aprendizado Contínuo em Sistemas Conversacionais
 
 ## Introdução
@@ -33,6 +32,3 @@ A aprendizagem contínua em sistemas conversacionais é crucial para manter a re
 3. McCloskey, M., & Cohen, N. J. (1989). Catastrophic interference in connectionist networks: The sequential learning problem. Psychology of Learning and Motivation, 24, 109-165.
 
 4. Yin, W., Schütze, H., Xiang, B., Zhou, B., & Bengio, Y. (2020). Sequential Continual Learning for Language Models. arXiv preprint arXiv:2006.05586.
-
-Estas referências bibliográficas são de autores reais e podem servir como base para a pesquisa e implementação de um sistema de aprendizado contínuo em sistemas conversacionais. Certifique-se de adaptar as referências às necessidades específicas de seu projeto e consultar os trabalhos originais para obter insights mais detalhados.
-
