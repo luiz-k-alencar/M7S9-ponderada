@@ -8,11 +8,6 @@ Os sistemas de conversação enfrentam um dilema crítico: à medida que as info
 
 ## Solução Proposta
 
-### Diagrama de Blocos
-A solução proposta envolve uma abordagem em quatro etapas para promover o aprendizado contínuo em sistemas conversacionais:
-
-![Diagrama de Blocos](https://example.com/diagrama_de_blocos.png)
-
 ### Descrição Textual dos Blocos
 
 1. **Coleta de Dados de Usuários:** Esta etapa envolve a coleta de dados de interações dos usuários com o sistema conversacional. Isso inclui as consultas dos usuários, respostas do sistema e feedback fornecido pelos usuários.
